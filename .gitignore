@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+paddleocr-env/
+conda-meta/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
