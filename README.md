@@ -258,7 +258,7 @@ https://youtu.be/8cvjR7TyJb0
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DocuQuery-AI.git
+git clone https://github.com/NeuralImprint/DocuQuery-AI.git
 ```
 
 Move into the project directory
